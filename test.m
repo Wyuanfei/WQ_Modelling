@@ -108,6 +108,71 @@ check_error(abs(spillage2 - spillage) < 0.001);
 % Unload library.
 d.unload
 
+%% Example 23
+clc
+clear
+close("all");
+epanet_path = 'E:\Program Files\MATLAB\R2021b\toolbox\epanet\EPANET-Matlab-Toolkit-master';
+run([epanet_path,'\start_toolkit']);
+
+d = epanet('Net1.inp');
+
+Linkindex = 3;
+disp(d.getLinkNodesIndex(Linkindex));
+LinkID = d.getLinkNameID(Linkindex);
+
+
+d.plot('nodes','yes','links','yes');
+
+startNode = 4;
+endNode = 6;
+d.setLinkNodesIndex(Linkindex,startNode,endNode);
+disp(d.getLinkNodesIndex(Linkindex));
+
+d.plot('nodes','yes','links','yes');
+
+%% Example 24
+clc
+clear
+close("all");
+epanet_path = 'E:\Program Files\MATLAB\R2021b\toolbox\epanet\EPANET-Matlab-Toolkit-master';
+run([epanet_path,'\start_toolkit']);
+d = epanet('Net1.inp');
+
+
+while ~isempty(d.getPatternIndex)
+    indexPattern = d.getPatternIndex;
+    d.deletePattern(indexPattern(1));
+end
+
+d.saveInputFile('Net1_NoPattern.inp');
+d.unload;
+
+%% Example 25
+clc
+clear
+close("all");
+epanet_path = 'E:\Program Files\MATLAB\R2021b\toolbox\epanet\EPANET-Matlab-Toolkit-master';
+run([epanet_path,'\start_toolkit']);
+d = epanet('Net1.inp');
+
+%%
+disp('Node name IDs:');
+disp(d.getNodeNameID);
+
+junction_prefix = 'J';
+Link_prefix = 'L';
+Tank_prefix = 'T';
+
+for i = d.getNodeIndex
+    d.setNodeNameID(i, [junction_prefix,'-',num2str(i)]);
+end
+
+disp('New Node name IDs:');
+disp(d.getNodeNameID);
+
+d.unload
+
 
 
 
