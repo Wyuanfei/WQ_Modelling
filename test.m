@@ -1,3 +1,4 @@
+%% Example 21
 clc
 clear
 close("all");
@@ -38,9 +39,74 @@ junctionIndex_21 = d.getNodeIndex('21');
 demand_deficit_21 = d.getNodeDemandDeficit(junctionIndex_21);
 check_error(abs(demand_deficit_12 - 413.67)<0.01);
 
-%%
 d.unload
 
+%% Example 22
+% add EPANET-Matlab toolkit path
+clc
+clear
+close("all");
+epanet_path = 'E:\Program Files\MATLAB\R2021b\toolbox\epanet\EPANET-Matlab-Toolkit-master';
+run([epanet_path,'\start_toolkit']);
+
+d = epanet('Net1.inp');
+%%
+Nindex = d.getNodeIndex('2');
+Lindex = d.getLinkIndex('110');
+
+d.setNodeTankInitialLevel(Nindex,130);
+d.setNodeTankMaximumWaterLevel(Nindex,130);
+
+% Set duration to 1 hr.
+d.setTimeSimulationDuration(3600);
+
+% Solve hydraulics with default of no tank spillage allowed.
+d.solveCompleteHydraulics;
+
+% Check that tank remains full.
+level = d.getNodeTankInitialLevel(Nindex);
+check_error(abs(level - 130) < 0.001);
+
+% Check that there is no spillage.
+spillage = d.getNodeActualDemand(Nindex);
+check_error(abs(spillage) < 0.001);
+
+% Check that inflow link is closed.
+inflow = d.getLinkFlows(Lindex);
+check_error(abs(inflow) < 0.001);
+
+% Turn tank overflow option on.
+d.setNodeTankCanOverFlow(Nindex,1);
+
+% Solve hydraulics again.
+d.solveCompleteHydraulics;
+
+% Check that tank remains full.
+level = d.getNodeTankInitialLevel(Nindex);
+check_error(abs(level - 130) < 0.001);
+
+% Check that there is spillage equal to tank inflow
+% (inflow has neg. sign since tank is start node of inflow pipe).
+spillage = d.getNodeActualDemand(Nindex);
+check_error(abs(spillage) > 0.001);
+
+inflow = d.getLinkFlows(Lindex);
+check_error(abs(-spillage - inflow) < 0.001);
+
+% Save project to file and then close it.
+d.saveInputFile('net1_overflow.inp');
+d.unload
+
+% Re-open saved file & run it.
+d = epanet('net1_overflow.inp');
+Result = d.solveCompleteHydraulics;
+
+% Check that tank spillage has same value as before.
+spillage2 = d.getNodeActualDemand(Nindex);
+check_error(abs(spillage2 - spillage) < 0.001);
+
+% Unload library.
+d.unload
 
 
 
