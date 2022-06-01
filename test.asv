@@ -28,19 +28,8 @@ demand_reduction = d.getStatistic.DemandReduction;
 check_error(deficient_nodes_PDA == 6);
 check_error(abs(demand_reduction - 32.66) < 0.01);
 
-%%
 junctionIndex_12 = d.getNodeIndex('12');
-demand_deficit_12 = d.getNodeDemandDeficit(junctionIndex_12);
-check_error(abs(demand_deficit_12)<0.01);
-
-%%
-junctionIndex_21 = d.getNodeIndex('21');
-demand_deficit_21 = d.getNodeDemandDeficit(junctionIndex_21);
-check_error(abs(demand_deficit_12 - 413.67)<0.01);
-
-%%
-d.unload
-
+demand_e
 
 
 
