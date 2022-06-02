@@ -172,6 +172,70 @@ disp('New Node name IDs:');
 disp(d.getNodeNameID);
 
 d.unload
+%% Example_26
+clc
+clear
+close("all");
+epanet_path = 'E:\Program Files\MATLAB\R2021b\toolbox\epanet\EPANET-Matlab-Toolkit-master';
+run([epanet_path,'\start_toolkit']);
+
+clc;
+clear H;
+
+tic
+try
+    unloadlibrary('epanet2');
+catch
+end
+d = epanet('Net1.inp');
+number_scenarios = 100;
+
+parfor i = 1:number_scenarios
+    loadlibrary('epanet2','epanet2.h')
+    d.loadEPANETFile(d.TempInpFile);
+    elevations = d.getNodeElevations - d.getNodeElevations*rand(1)*.5;
+    d.setNodeElevations(elevations);
+
+    H{i} = d.getComputedHydraulicTimeSeries;
+    d.closeNetwork;
+end
+d.unload
+toc
+
+%% Example EX2
+clc
+clear
+close("all");
+epanet_path = 'E:\Program Files\MATLAB\R2021b\toolbox\epanet\EPANET-Matlab-Toolkit-master';
+run([epanet_path,'\start_toolkit']);
+d = epanet('Net1.inp');
+
+nodeID = '32';
+r = 1:0.5:10;
+NodeIndex = d.getNodeIndex(nodeID);
+
+NodeBaseDemand = d.getNodeBaseDemands{1}(NodeIndex);
+NodeFireDemand = NodeBaseDemand.*r;
+
+d.openHydraulicAnalysis;
+P = [];
+for i = 1:length(NodeFireDemand)
+    d.setNodeBaseDemands(NodeIndex, NodeFireDemand(i));
+    d.initializeHydraulicAnalysis;
+    d.runHydraulicAnalysis;
+    P(i) = d.getNodePressure(NodeIndex);
+end
+d.closeHydraulicAnalysis;
+
+plot(NodeFireDemand,P,'-x');
+
+%% Example EX_3
+
+
+
+
+
+
 
 
 
