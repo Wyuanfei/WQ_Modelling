@@ -1,0 +1,137 @@
+[TITLE]
+
+[JUNCTIONS]
+ J1                                   50.0000
+ J2                                   40.0000
+ J3                                   35.0000
+ J4                                   30.0000
+ J5                                   40.0000
+
+[RESERVOIRS]
+ R1                                  120.0000                                
+
+[TANKS]
+
+[PIPES]
+ L1                              R1                              J1                                 1000.0000     400.0000      70.0000       0.0000       
+ L2                              J1                              J2                                 1000.0000     300.0000     100.0000       0.0000       
+ L3                              J1                              J3                                 1000.0000     250.0000      60.0000       0.0000       
+ L4                              J2                              J4                                 1000.0000     300.0000     100.0000       0.0000       
+ L5                              J3                              J4                                 1000.0000     250.0000      60.0000       0.0000       
+ L6                              J4                              J5                                 1000.0000     150.0000      75.0000       0.0000       
+
+[PUMPS]
+
+[VALVES]
+
+[DEMANDS]
+ J1                                   30.000000                                
+ J2                                   20.000000                                
+ J3                                   20.000000                                
+ J4                                   50.000000                                
+ J5                                   20.000000                                
+
+[EMITTERS]
+
+[STATUS]
+
+[PATTERNS]
+
+[CURVES]
+
+[CONTROLS]
+
+[RULES]
+
+[QUALITY]
+
+[SOURCES]
+
+[MIXING]
+
+[REACTIONS]
+ ORDER  BULK            1.00
+ ORDER  WALL            1
+ ORDER  TANK            1.00
+ GLOBAL BULK            0.000000
+ GLOBAL WALL            0.000000
+
+[ENERGY]
+ GLOBAL EFFIC        75.0000
+ DEMAND CHARGE       0.0000
+
+[TIMES]
+ DURATION            0:00:00
+ HYDRAULIC TIMESTEP  1:00:00
+ QUALITY TIMESTEP    0:05:00
+ REPORT TIMESTEP     1:00:00
+ REPORT START        0:00:00
+ PATTERN TIMESTEP    1:00:00
+ PATTERN START       0:00:00
+ RULE TIMESTEP       0:06:00
+ START CLOCKTIME     0:00:00
+ STATISTIC           NONE
+
+[OPTIONS]
+ UNITS               LPS
+ PRESSURE            METERS
+ HEADLOSS            H-W
+ UNBALANCED          CONTINUE 10
+ QUALITY             NONE
+ DEMAND MULTIPLIER   1.0000
+ EMITTER EXPONENT    0.5000
+ VISCOSITY           1.000000
+ DIFFUSIVITY         1.000000
+ SPECIFIC GRAVITY    1.000000
+ TRIALS              40
+ ACCURACY            0.00100000
+ TOLERANCE           0.01000000
+ CHECKFREQ           2
+ MAXCHECK            10
+ DAMPLIMIT           0.00000000
+
+[REPORT]
+ PAGESIZE            0
+ STATUS              NO
+ SUMMARY             NO
+ ENERGY              NO
+ MESSAGES            YES
+ NODES               NONE
+ LINKS               NONE
+ Elevation           NO
+ Demand              PRECISION 2
+ Head                PRECISION 2
+ Pressure            PRECISION 2
+ Quality             NO
+ Length              NO
+ Diameter            NO
+ Flow                PRECISION 2
+ Velocity            PRECISION 2
+ Headloss            PRECISION 2
+ Quality             NO
+ State               NO
+ Setting             NO
+ Reaction            NO
+
+[COORDINATES]
+ J1                                 3000.000000    7339.250000
+ J2                                 2170.000000    6507.760000
+ J3                                 3830.000000    6507.760000
+ J4                                 3000.000000    5676.270000
+ J5                                 3000.000000    4722.840000
+ R1                                 2998.890000    8292.680000
+
+[VERTICES]
+
+[TAGS]
+
+[LABELS]
+;X-Coord           Y-Coord          Label & Anchor Node
+
+[BACKDROP]
+ DIMENSIONS     	0.00            	0.00            	10000.00        	10000.00        
+ UNITS          	None
+ FILE           	
+ OFFSET         	0.00            	0.00            
+
+[END]

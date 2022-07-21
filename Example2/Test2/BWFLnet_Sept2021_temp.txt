@@ -1,0 +1,2344 @@
+  Page 1                                    Sat Jul 02 22:26:04 2022
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.2                            *
+  ******************************************************************
+  
+  Analysis begun Sat Jul 02 22:26:05 2022
+
+   
+  Hydraulic Status:
+  -----------------------------------------------------------------------
+     0:00:00: TCV link_2747 changed by timer control
+     0:00:00: TCV link_2748 changed by timer control
+     0:00:00: Balanced after 7 trials
+     0:00:00: Reservoir node_2747 is emptying
+     0:00:00: Reservoir node_2748 is emptying
+   
+     0:15:00: Balanced after 2 trials
+   
+     0:30:00: Balanced after 2 trials
+   
+     0:45:00: Balanced after 2 trials
+   
+     1:00:00: TCV link_2747 changed by timer control
+     1:00:00: TCV link_2748 changed by timer control
+     1:00:00: Balanced after 2 trials
+   
+     1:15:00: Balanced after 2 trials
+   
+     1:30:00: Balanced after 2 trials
+   
+     1:45:00: Balanced after 2 trials
+   
+     2:00:00: TCV link_2747 changed by timer control
+     2:00:00: TCV link_2748 changed by timer control
+     2:00:00: Balanced after 2 trials
+   
+     2:15:00: Balanced after 2 trials
+   
+     2:30:00: Balanced after 2 trials
+   
+     2:45:00: Balanced after 2 trials
+   
+     3:00:00: TCV link_2747 changed by timer control
+     3:00:00: TCV link_2748 changed by timer control
+     3:00:00: Balanced after 2 trials
+   
+     3:15:00: Balanced after 2 trials
+   
+     3:30:00: Balanced after 2 trials
+   
+     3:45:00: Balanced after 2 trials
+   
+     4:00:00: TCV link_2747 changed by timer control
+     4:00:00: TCV link_2748 changed by timer control
+     4:00:00: Balanced after 5 trials
+   
+     4:15:00: Balanced after 2 trials
+   
+     4:30:00: Balanced after 2 trials
+   
+     4:45:00: Balanced after 2 trials
+   
+     5:00:00: TCV link_2747 changed by timer control
+     5:00:00: TCV link_2748 changed by timer control
+     5:00:00: Balanced after 3 trials
+   
+     5:15:00: Balanced after 2 trials
+   
+     5:30:00: Balanced after 2 trials
+   
+     5:45:00: Balanced after 2 trials
+   
+     6:00:00: TCV link_2747 changed by timer control
+     6:00:00: TCV link_2748 changed by timer control
+     6:00:00: Balanced after 3 trials
+   
+     6:15:00: Balanced after 3 trials
+   
+     6:30:00: Balanced after 2 trials
+   
+     6:45:00: Balanced after 2 trials
+   
+     7:00:00: TCV link_2747 changed by timer control
+     7:00:00: TCV link_2748 changed by timer control
+     7:00:00: Balanced after 2 trials
+   
+     7:15:00: Balanced after 2 trials
+   
+     7:30:00: Balanced after 2 trials
+   
+     7:45:00: Balanced after 2 trials
+   
+     8:00:00: TCV link_2747 changed by timer control
+     8:00:00: TCV link_2748 changed by timer control
+     8:00:00: Balanced after 2 trials
+   
+     8:15:00: Balanced after 2 trials
+   
+     8:30:00: Balanced after 2 trials
+   
+     8:45:00: Balanced after 2 trials
+   
+     9:00:00: TCV link_2747 changed by timer control
+     9:00:00: TCV link_2748 changed by timer control
+     9:00:00: Balanced after 2 trials
+   
+     9:15:00: Balanced after 2 trials
+   
+     9:30:00: Balanced after 2 trials
+   
+     9:45:00: Balanced after 2 trials
+   
+    10:00:00: TCV link_2747 changed by timer control
+    10:00:00: TCV link_2748 changed by timer control
+    10:00:00: Balanced after 2 trials
+   
+    10:15:00: Balanced after 2 trials
+   
+    10:30:00: Balanced after 2 trials
+   
+    10:45:00: Balanced after 2 trials
+   
+    11:00:00: TCV link_2747 changed by timer control
+    11:00:00: TCV link_2748 changed by timer control
+    11:00:00: Balanced after 2 trials
+   
+    11:15:00: Balanced after 2 trials
+   
+    11:30:00: Balanced after 2 trials
+   
+    11:45:00: Balanced after 1 trials
+   
+    12:00:00: TCV link_2747 changed by timer control
+    12:00:00: TCV link_2748 changed by timer control
+    12:00:00: Balanced after 2 trials
+   
+    12:15:00: Balanced after 2 trials
+   
+    12:30:00: Balanced after 2 trials
+   
+    12:45:00: Balanced after 1 trials
+   
+    13:00:00: TCV link_2747 changed by timer control
+    13:00:00: TCV link_2748 changed by timer control
+    13:00:00: Balanced after 2 trials
+   
+    13:15:00: Balanced after 2 trials
+   
+    13:30:00: Balanced after 2 trials
+   
+    13:45:00: Balanced after 2 trials
+   
+    14:00:00: TCV link_2747 changed by timer control
+    14:00:00: TCV link_2748 changed by timer control
+    14:00:00: Balanced after 2 trials
+   
+    14:15:00: Balanced after 2 trials
+   
+    14:30:00: Balanced after 2 trials
+   
+    14:45:00: Balanced after 2 trials
+   
+    15:00:00: TCV link_2747 changed by timer control
+    15:00:00: TCV link_2748 changed by timer control
+    15:00:00: Balanced after 2 trials
+   
+    15:15:00: Balanced after 2 trials
+   
+    15:30:00: Balanced after 2 trials
+   
+    15:45:00: Balanced after 2 trials
+   
+    16:00:00: TCV link_2747 changed by timer control
+    16:00:00: TCV link_2748 changed by timer control
+    16:00:00: Balanced after 1 trials
+   
+    16:15:00: Balanced after 2 trials
+   
+    16:30:00: Balanced after 1 trials
+   
+    16:45:00: Balanced after 1 trials
+   
+    17:00:00: TCV link_2747 changed by timer control
+    17:00:00: TCV link_2748 changed by timer control
+    17:00:00: Balanced after 2 trials
+   
+    17:15:00: Balanced after 2 trials
+   
+    17:30:00: Balanced after 2 trials
+   
+    17:45:00: Balanced after 2 trials
+   
+    18:00:00: TCV link_2747 changed by timer control
+    18:00:00: TCV link_2748 changed by timer control
+    18:00:00: Balanced after 2 trials
+   
+    18:15:00: Balanced after 2 trials
+   
+    18:30:00: Balanced after 2 trials
+   
+    18:45:00: Balanced after 1 trials
+   
+    19:00:00: TCV link_2747 changed by timer control
+    19:00:00: TCV link_2748 changed by timer control
+    19:00:00: Balanced after 2 trials
+   
+    19:15:00: Balanced after 2 trials
+   
+    19:30:00: Balanced after 2 trials
+   
+    19:45:00: Balanced after 2 trials
+   
+    20:00:00: TCV link_2747 changed by timer control
+    20:00:00: TCV link_2748 changed by timer control
+    20:00:00: Balanced after 2 trials
+   
+    20:15:00: Balanced after 2 trials
+   
+    20:30:00: Balanced after 2 trials
+   
+    20:45:00: Balanced after 2 trials
+   
+    21:00:00: TCV link_2747 changed by timer control
+    21:00:00: TCV link_2748 changed by timer control
+    21:00:00: Balanced after 2 trials
+   
+    21:15:00: Balanced after 2 trials
+   
+    21:30:00: Balanced after 2 trials
+   
+    21:45:00: Balanced after 2 trials
+   
+    22:00:00: TCV link_2747 changed by timer control
+    22:00:00: TCV link_2748 changed by timer control
+    22:00:00: Balanced after 3 trials
+   
+    22:15:00: Balanced after 2 trials
+   
+    22:30:00: Balanced after 2 trials
+   
+    22:45:00: Balanced after 2 trials
+   
+    23:00:00: TCV link_2747 changed by timer control
+    23:00:00: TCV link_2748 changed by timer control
+    23:00:00: Balanced after 3 trials
+   
+    23:15:00: Balanced after 2 trials
+   
+    23:30:00: Balanced after 2 trials
+   
+    23:45:00: Balanced after 2 trials
+   
+    24:00:00: TCV link_2747 changed by timer control
+    24:00:00: TCV link_2748 changed by timer control
+    24:00:00: Balanced after 2 trials
+   
+    24:15:00: Balanced after 2 trials
+   
+    24:30:00: Balanced after 2 trials
+   
+    24:45:00: Balanced after 2 trials
+   
+    25:00:00: Balanced after 2 trials
+   
+    25:15:00: Balanced after 2 trials
+   
+    25:30:00: Balanced after 2 trials
+   
+    25:45:00: Balanced after 2 trials
+   
+    26:00:00: Balanced after 2 trials
+   
+    26:15:00: Balanced after 2 trials
+   
+    26:30:00: Balanced after 2 trials
+   
+    26:45:00: Balanced after 2 trials
+   
+    27:00:00: Balanced after 2 trials
+   
+    27:15:00: Balanced after 2 trials
+   
+    27:30:00: Balanced after 2 trials
+   
+    27:45:00: Balanced after 2 trials
+   
+    28:00:00: Balanced after 2 trials
+   
+    28:15:00: Balanced after 2 trials
+   
+    28:30:00: Balanced after 2 trials
+   
+    28:45:00: Balanced after 2 trials
+   
+    29:00:00: Balanced after 2 trials
+   
+    29:15:00: Balanced after 2 trials
+   
+    29:30:00: Balanced after 2 trials
+   
+    29:45:00: Balanced after 2 trials
+   
+    30:00:00: Balanced after 2 trials
+   
+    30:15:00: Balanced after 2 trials
+   
+    30:30:00: Balanced after 2 trials
+   
+    30:45:00: Balanced after 2 trials
+   
+    31:00:00: Balanced after 2 trials
+   
+    31:15:00: Balanced after 2 trials
+   
+    31:30:00: Balanced after 2 trials
+   
+    31:45:00: Balanced after 2 trials
+   
+    32:00:00: Balanced after 2 trials
+   
+    32:15:00: Balanced after 2 trials
+   
+    32:30:00: Balanced after 2 trials
+   
+    32:45:00: Balanced after 2 trials
+   
+    33:00:00: Balanced after 2 trials
+   
+    33:15:00: Balanced after 2 trials
+   
+    33:30:00: Balanced after 2 trials
+   
+    33:45:00: Balanced after 2 trials
+   
+    34:00:00: Balanced after 2 trials
+   
+    34:15:00: Balanced after 2 trials
+   
+    34:30:00: Balanced after 1 trials
+   
+    34:45:00: Balanced after 2 trials
+   
+    35:00:00: Balanced after 2 trials
+   
+    35:15:00: Balanced after 2 trials
+   
+    35:30:00: Balanced after 2 trials
+   
+    35:45:00: Balanced after 1 trials
+   
+    36:00:00: Balanced after 2 trials
+   
+    36:15:00: Balanced after 2 trials
+   
+    36:30:00: Balanced after 2 trials
+   
+    36:45:00: Balanced after 1 trials
+   
+    37:00:00: Balanced after 2 trials
+   
+    37:15:00: Balanced after 2 trials
+   
+    37:30:00: Balanced after 2 trials
+   
+    37:45:00: Balanced after 2 trials
+   
+    38:00:00: Balanced after 2 trials
+   
+    38:15:00: Balanced after 2 trials
+   
+    38:30:00: Balanced after 2 trials
+   
+    38:45:00: Balanced after 2 trials
+   
+    39:00:00: Balanced after 2 trials
+   
+    39:15:00: Balanced after 2 trials
+   
+    39:30:00: Balanced after 2 trials
+   
+    39:45:00: Balanced after 2 trials
+   
+    40:00:00: Balanced after 1 trials
+   
+    40:15:00: Balanced after 2 trials
+   
+    40:30:00: Balanced after 1 trials
+   
+    40:45:00: Balanced after 1 trials
+   
+    41:00:00: Balanced after 2 trials
+   
+    41:15:00: Balanced after 2 trials
+   
+    41:30:00: Balanced after 2 trials
+   
+    41:45:00: Balanced after 2 trials
+   
+    42:00:00: Balanced after 2 trials
+   
+    42:15:00: Balanced after 2 trials
+   
+    42:30:00: Balanced after 2 trials
+   
+    42:45:00: Balanced after 1 trials
+   
+    43:00:00: Balanced after 2 trials
+   
+    43:15:00: Balanced after 2 trials
+   
+    43:30:00: Balanced after 2 trials
+   
+    43:45:00: Balanced after 2 trials
+   
+    44:00:00: Balanced after 2 trials
+   
+    44:15:00: Balanced after 2 trials
+   
+    44:30:00: Balanced after 2 trials
+   
+    44:45:00: Balanced after 2 trials
+   
+    45:00:00: Balanced after 2 trials
+   
+    45:15:00: Balanced after 2 trials
+   
+    45:30:00: Balanced after 2 trials
+   
+    45:45:00: Balanced after 2 trials
+   
+    46:00:00: Balanced after 2 trials
+   
+    46:15:00: Balanced after 2 trials
+   
+    46:30:00: Balanced after 2 trials
+   
+    46:45:00: Balanced after 2 trials
+   
+    47:00:00: Balanced after 2 trials
+   
+    47:15:00: Balanced after 2 trials
+   
+    47:30:00: Balanced after 2 trials
+   
+    47:45:00: Balanced after 2 trials
+   
+    48:00:00: Balanced after 2 trials
+   
+    48:15:00: Balanced after 2 trials
+   
+    48:30:00: Balanced after 2 trials
+   
+    48:45:00: Balanced after 2 trials
+   
+    49:00:00: Balanced after 2 trials
+   
+    49:15:00: Balanced after 2 trials
+   
+    49:30:00: Balanced after 2 trials
+   
+    49:45:00: Balanced after 2 trials
+   
+    50:00:00: Balanced after 2 trials
+   
+    50:15:00: Balanced after 2 trials
+   
+    50:30:00: Balanced after 2 trials
+   
+    50:45:00: Balanced after 2 trials
+   
+    51:00:00: Balanced after 2 trials
+   
+    51:15:00: Balanced after 2 trials
+   
+    51:30:00: Balanced after 2 trials
+   
+    51:45:00: Balanced after 2 trials
+   
+    52:00:00: Balanced after 2 trials
+   
+    52:15:00: Balanced after 2 trials
+   
+    52:30:00: Balanced after 2 trials
+   
+    52:45:00: Balanced after 2 trials
+   
+    53:00:00: Balanced after 2 trials
+   
+    53:15:00: Balanced after 2 trials
+   
+    53:30:00: Balanced after 2 trials
+   
+    53:45:00: Balanced after 2 trials
+   
+    54:00:00: Balanced after 2 trials
+   
+    54:15:00: Balanced after 2 trials
+   
+    54:30:00: Balanced after 2 trials
+   
+    54:45:00: Balanced after 2 trials
+   
+    55:00:00: Balanced after 2 trials
+   
+    55:15:00: Balanced after 2 trials
+   
+    55:30:00: Balanced after 2 trials
+   
+    55:45:00: Balanced after 2 trials
+   
+    56:00:00: Balanced after 2 trials
+   
+    56:15:00: Balanced after 2 trials
+   
+    56:30:00: Balanced after 2 trials
+   
+    56:45:00: Balanced after 2 trials
+   
+    57:00:00: Balanced after 2 trials
+   
+    57:15:00: Balanced after 2 trials
+   
+    57:30:00: Balanced after 2 trials
+   
+    57:45:00: Balanced after 2 trials
+   
+    58:00:00: Balanced after 2 trials
+   
+    58:15:00: Balanced after 2 trials
+   
+    58:30:00: Balanced after 1 trials
+   
+    58:45:00: Balanced after 2 trials
+   
+    59:00:00: Balanced after 2 trials
+   
+    59:15:00: Balanced after 2 trials
+   
+    59:30:00: Balanced after 2 trials
+   
+    59:45:00: Balanced after 1 trials
+   
+    60:00:00: Balanced after 2 trials
+   
+    60:15:00: Balanced after 2 trials
+   
+    60:30:00: Balanced after 2 trials
+   
+    60:45:00: Balanced after 1 trials
+   
+    61:00:00: Balanced after 2 trials
+   
+    61:15:00: Balanced after 2 trials
+   
+    61:30:00: Balanced after 2 trials
+   
+    61:45:00: Balanced after 2 trials
+   
+    62:00:00: Balanced after 2 trials
+   
+    62:15:00: Balanced after 2 trials
+   
+    62:30:00: Balanced after 2 trials
+   
+    62:45:00: Balanced after 2 trials
+   
+    63:00:00: Balanced after 2 trials
+   
+    63:15:00: Balanced after 2 trials
+   
+    63:30:00: Balanced after 2 trials
+   
+    63:45:00: Balanced after 2 trials
+   
+    64:00:00: Balanced after 1 trials
+   
+    64:15:00: Balanced after 2 trials
+   
+    64:30:00: Balanced after 1 trials
+   
+    64:45:00: Balanced after 1 trials
+   
+    65:00:00: Balanced after 2 trials
+   
+    65:15:00: Balanced after 2 trials
+   
+    65:30:00: Balanced after 2 trials
+   
+    65:45:00: Balanced after 2 trials
+   
+    66:00:00: Balanced after 2 trials
+   
+    66:15:00: Balanced after 2 trials
+   
+    66:30:00: Balanced after 2 trials
+   
+    66:45:00: Balanced after 1 trials
+   
+    67:00:00: Balanced after 2 trials
+   
+    67:15:00: Balanced after 2 trials
+   
+    67:30:00: Balanced after 2 trials
+   
+    67:45:00: Balanced after 2 trials
+   
+    68:00:00: Balanced after 2 trials
+   
+    68:15:00: Balanced after 2 trials
+   
+    68:30:00: Balanced after 2 trials
+   
+    68:45:00: Balanced after 2 trials
+   
+    69:00:00: Balanced after 2 trials
+   
+    69:15:00: Balanced after 2 trials
+   
+    69:30:00: Balanced after 2 trials
+   
+    69:45:00: Balanced after 2 trials
+   
+    70:00:00: Balanced after 2 trials
+   
+    70:15:00: Balanced after 2 trials
+   
+    70:30:00: Balanced after 2 trials
+   
+    70:45:00: Balanced after 2 trials
+   
+    71:00:00: Balanced after 2 trials
+   
+    71:15:00: Balanced after 2 trials
+   
+    71:30:00: Balanced after 2 trials
+   
+    71:45:00: Balanced after 2 trials
+   
+    72:00:00: Balanced after 2 trials
+   
+    72:15:00: Balanced after 2 trials
+   
+    72:30:00: Balanced after 2 trials
+   
+    72:45:00: Balanced after 2 trials
+   
+    73:00:00: Balanced after 2 trials
+   
+    73:15:00: Balanced after 2 trials
+   
+    73:30:00: Balanced after 2 trials
+   
+    73:45:00: Balanced after 2 trials
+   
+    74:00:00: Balanced after 2 trials
+   
+    74:15:00: Balanced after 2 trials
+   
+    74:30:00: Balanced after 2 trials
+   
+    74:45:00: Balanced after 2 trials
+   
+    75:00:00: Balanced after 2 trials
+   
+    75:15:00: Balanced after 2 trials
+   
+    75:30:00: Balanced after 2 trials
+   
+    75:45:00: Balanced after 2 trials
+   
+    76:00:00: Balanced after 2 trials
+   
+    76:15:00: Balanced after 2 trials
+   
+    76:30:00: Balanced after 2 trials
+   
+    76:45:00: Balanced after 2 trials
+   
+    77:00:00: Balanced after 2 trials
+   
+    77:15:00: Balanced after 2 trials
+   
+    77:30:00: Balanced after 2 trials
+   
+    77:45:00: Balanced after 2 trials
+   
+    78:00:00: Balanced after 2 trials
+   
+    78:15:00: Balanced after 2 trials
+   
+    78:30:00: Balanced after 2 trials
+   
+    78:45:00: Balanced after 2 trials
+   
+    79:00:00: Balanced after 2 trials
+   
+    79:15:00: Balanced after 2 trials
+   
+    79:30:00: Balanced after 2 trials
+   
+    79:45:00: Balanced after 2 trials
+   
+    80:00:00: Balanced after 2 trials
+   
+    80:15:00: Balanced after 2 trials
+   
+    80:30:00: Balanced after 2 trials
+   
+    80:45:00: Balanced after 2 trials
+   
+    81:00:00: Balanced after 2 trials
+   
+    81:15:00: Balanced after 2 trials
+   
+    81:30:00: Balanced after 2 trials
+   
+    81:45:00: Balanced after 2 trials
+   
+    82:00:00: Balanced after 2 trials
+   
+    82:15:00: Balanced after 2 trials
+   
+    82:30:00: Balanced after 1 trials
+   
+    82:45:00: Balanced after 2 trials
+   
+    83:00:00: Balanced after 2 trials
+   
+    83:15:00: Balanced after 2 trials
+   
+    83:30:00: Balanced after 2 trials
+   
+    83:45:00: Balanced after 1 trials
+   
+    84:00:00: Balanced after 2 trials
+   
+    84:15:00: Balanced after 2 trials
+   
+    84:30:00: Balanced after 2 trials
+   
+    84:45:00: Balanced after 1 trials
+   
+    85:00:00: Balanced after 2 trials
+   
+    85:15:00: Balanced after 2 trials
+   
+    85:30:00: Balanced after 2 trials
+   
+    85:45:00: Balanced after 2 trials
+   
+    86:00:00: Balanced after 2 trials
+   
+    86:15:00: Balanced after 2 trials
+   
+    86:30:00: Balanced after 2 trials
+   
+    86:45:00: Balanced after 2 trials
+   
+    87:00:00: Balanced after 2 trials
+   
+    87:15:00: Balanced after 2 trials
+   
+    87:30:00: Balanced after 2 trials
+   
+    87:45:00: Balanced after 2 trials
+   
+    88:00:00: Balanced after 1 trials
+   
+    88:15:00: Balanced after 2 trials
+   
+    88:30:00: Balanced after 1 trials
+   
+    88:45:00: Balanced after 1 trials
+   
+    89:00:00: Balanced after 2 trials
+   
+    89:15:00: Balanced after 2 trials
+   
+    89:30:00: Balanced after 2 trials
+   
+    89:45:00: Balanced after 2 trials
+   
+    90:00:00: Balanced after 2 trials
+   
+    90:15:00: Balanced after 2 trials
+   
+    90:30:00: Balanced after 2 trials
+   
+    90:45:00: Balanced after 1 trials
+   
+    91:00:00: Balanced after 2 trials
+   
+    91:15:00: Balanced after 2 trials
+   
+    91:30:00: Balanced after 2 trials
+   
+    91:45:00: Balanced after 2 trials
+   
+    92:00:00: Balanced after 2 trials
+   
+    92:15:00: Balanced after 2 trials
+   
+    92:30:00: Balanced after 2 trials
+   
+    92:45:00: Balanced after 2 trials
+   
+    93:00:00: Balanced after 2 trials
+   
+    93:15:00: Balanced after 2 trials
+   
+    93:30:00: Balanced after 2 trials
+   
+    93:45:00: Balanced after 2 trials
+   
+    94:00:00: Balanced after 2 trials
+   
+    94:15:00: Balanced after 2 trials
+   
+    94:30:00: Balanced after 2 trials
+   
+    94:45:00: Balanced after 2 trials
+   
+    95:00:00: Balanced after 2 trials
+   
+    95:15:00: Balanced after 2 trials
+   
+    95:30:00: Balanced after 2 trials
+   
+    95:45:00: Balanced after 2 trials
+   
+    96:00:00: Balanced after 2 trials
+   
+    96:15:00: Balanced after 2 trials
+   
+    96:30:00: Balanced after 2 trials
+   
+    96:45:00: Balanced after 2 trials
+   
+    97:00:00: Balanced after 2 trials
+   
+    97:15:00: Balanced after 2 trials
+   
+    97:30:00: Balanced after 2 trials
+   
+    97:45:00: Balanced after 2 trials
+   
+    98:00:00: Balanced after 2 trials
+   
+    98:15:00: Balanced after 2 trials
+   
+    98:30:00: Balanced after 2 trials
+   
+    98:45:00: Balanced after 2 trials
+   
+    99:00:00: Balanced after 2 trials
+   
+    99:15:00: Balanced after 2 trials
+   
+    99:30:00: Balanced after 2 trials
+   
+    99:45:00: Balanced after 2 trials
+   
+   100:00:00: Balanced after 2 trials
+   
+   100:15:00: Balanced after 2 trials
+   
+   100:30:00: Balanced after 2 trials
+   
+   100:45:00: Balanced after 2 trials
+   
+   101:00:00: Balanced after 2 trials
+   
+   101:15:00: Balanced after 2 trials
+   
+   101:30:00: Balanced after 2 trials
+   
+   101:45:00: Balanced after 2 trials
+   
+   102:00:00: Balanced after 2 trials
+   
+   102:15:00: Balanced after 2 trials
+   
+   102:30:00: Balanced after 2 trials
+   
+   102:45:00: Balanced after 2 trials
+   
+   103:00:00: Balanced after 2 trials
+   
+   103:15:00: Balanced after 2 trials
+   
+   103:30:00: Balanced after 2 trials
+   
+   103:45:00: Balanced after 2 trials
+   
+   104:00:00: Balanced after 2 trials
+   
+   104:15:00: Balanced after 2 trials
+   
+   104:30:00: Balanced after 2 trials
+   
+   104:45:00: Balanced after 2 trials
+   
+   105:00:00: Balanced after 2 trials
+   
+   105:15:00: Balanced after 2 trials
+   
+   105:30:00: Balanced after 2 trials
+   
+   105:45:00: Balanced after 2 trials
+   
+   106:00:00: Balanced after 2 trials
+   
+   106:15:00: Balanced after 2 trials
+   
+   106:30:00: Balanced after 1 trials
+   
+   106:45:00: Balanced after 2 trials
+   
+   107:00:00: Balanced after 2 trials
+   
+   107:15:00: Balanced after 2 trials
+   
+   107:30:00: Balanced after 2 trials
+   
+   107:45:00: Balanced after 1 trials
+   
+   108:00:00: Balanced after 2 trials
+   
+   108:15:00: Balanced after 2 trials
+   
+   108:30:00: Balanced after 2 trials
+   
+   108:45:00: Balanced after 1 trials
+   
+   109:00:00: Balanced after 2 trials
+   
+   109:15:00: Balanced after 2 trials
+   
+   109:30:00: Balanced after 2 trials
+   
+   109:45:00: Balanced after 2 trials
+   
+   110:00:00: Balanced after 2 trials
+   
+   110:15:00: Balanced after 2 trials
+   
+   110:30:00: Balanced after 2 trials
+   
+   110:45:00: Balanced after 2 trials
+   
+   111:00:00: Balanced after 2 trials
+   
+   111:15:00: Balanced after 2 trials
+   
+   111:30:00: Balanced after 2 trials
+   
+   111:45:00: Balanced after 2 trials
+   
+   112:00:00: Balanced after 1 trials
+   
+   112:15:00: Balanced after 2 trials
+   
+   112:30:00: Balanced after 1 trials
+   
+   112:45:00: Balanced after 1 trials
+   
+   113:00:00: Balanced after 2 trials
+   
+   113:15:00: Balanced after 2 trials
+   
+   113:30:00: Balanced after 2 trials
+   
+   113:45:00: Balanced after 2 trials
+   
+   114:00:00: Balanced after 2 trials
+   
+   114:15:00: Balanced after 2 trials
+   
+   114:30:00: Balanced after 2 trials
+   
+   114:45:00: Balanced after 1 trials
+   
+   115:00:00: Balanced after 2 trials
+   
+   115:15:00: Balanced after 2 trials
+   
+   115:30:00: Balanced after 2 trials
+   
+   115:45:00: Balanced after 2 trials
+   
+   116:00:00: Balanced after 2 trials
+   
+   116:15:00: Balanced after 2 trials
+   
+   116:30:00: Balanced after 2 trials
+   
+   116:45:00: Balanced after 2 trials
+   
+   117:00:00: Balanced after 2 trials
+   
+   117:15:00: Balanced after 2 trials
+   
+   117:30:00: Balanced after 2 trials
+   
+   117:45:00: Balanced after 2 trials
+   
+   118:00:00: Balanced after 2 trials
+   
+   118:15:00: Balanced after 2 trials
+   
+   118:30:00: Balanced after 2 trials
+   
+   118:45:00: Balanced after 2 trials
+   
+   119:00:00: Balanced after 2 trials
+   
+   119:15:00: Balanced after 2 trials
+   
+   119:30:00: Balanced after 2 trials
+   
+   119:45:00: Balanced after 2 trials
+   
+   120:00:00: Balanced after 2 trials
+   
+  Water Quality Mass Balance (hrs)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       0.00000e+000
+  Mass Outflow:      2.96401e+006
+  Mass Reacted:      -3.06027e+006
+  Final Mass:        9.61616e+004
+  Mass Ratio:         0.99997
+  ================================
+
+   
+  Hydraulic Status:
+  -----------------------------------------------------------------------
+     0:00:00: TCV link_2747 changed by timer control
+     0:00:00: TCV link_2748 changed by timer control
+     0:00:00: Balanced after 7 trials
+     0:00:00: Reservoir node_2747 is emptying
+     0:00:00: Reservoir node_2748 is emptying
+   
+     0:15:00: Balanced after 2 trials
+   
+     0:30:00: Balanced after 2 trials
+   
+     0:45:00: Balanced after 2 trials
+   
+     1:00:00: TCV link_2747 changed by timer control
+     1:00:00: TCV link_2748 changed by timer control
+     1:00:00: Balanced after 2 trials
+   
+     1:15:00: Balanced after 2 trials
+   
+     1:30:00: Balanced after 2 trials
+   
+     1:45:00: Balanced after 2 trials
+   
+     2:00:00: TCV link_2747 changed by timer control
+     2:00:00: TCV link_2748 changed by timer control
+     2:00:00: Balanced after 2 trials
+   
+     2:15:00: Balanced after 2 trials
+   
+     2:30:00: Balanced after 2 trials
+   
+     2:45:00: Balanced after 2 trials
+   
+     3:00:00: TCV link_2747 changed by timer control
+     3:00:00: TCV link_2748 changed by timer control
+     3:00:00: Balanced after 2 trials
+   
+     3:15:00: Balanced after 2 trials
+   
+     3:30:00: Balanced after 2 trials
+   
+     3:45:00: Balanced after 2 trials
+   
+     4:00:00: TCV link_2747 changed by timer control
+     4:00:00: TCV link_2748 changed by timer control
+     4:00:00: Balanced after 5 trials
+   
+     4:15:00: Balanced after 2 trials
+   
+     4:30:00: Balanced after 2 trials
+   
+     4:45:00: Balanced after 2 trials
+   
+     5:00:00: TCV link_2747 changed by timer control
+     5:00:00: TCV link_2748 changed by timer control
+     5:00:00: Balanced after 3 trials
+   
+     5:15:00: Balanced after 2 trials
+   
+     5:30:00: Balanced after 2 trials
+   
+     5:45:00: Balanced after 2 trials
+   
+     6:00:00: TCV link_2747 changed by timer control
+     6:00:00: TCV link_2748 changed by timer control
+     6:00:00: Balanced after 3 trials
+   
+     6:15:00: Balanced after 3 trials
+   
+     6:30:00: Balanced after 2 trials
+   
+     6:45:00: Balanced after 2 trials
+   
+     7:00:00: TCV link_2747 changed by timer control
+     7:00:00: TCV link_2748 changed by timer control
+     7:00:00: Balanced after 2 trials
+   
+     7:15:00: Balanced after 2 trials
+   
+     7:30:00: Balanced after 2 trials
+   
+     7:45:00: Balanced after 2 trials
+   
+     8:00:00: TCV link_2747 changed by timer control
+     8:00:00: TCV link_2748 changed by timer control
+     8:00:00: Balanced after 2 trials
+   
+     8:15:00: Balanced after 2 trials
+   
+     8:30:00: Balanced after 2 trials
+   
+     8:45:00: Balanced after 2 trials
+   
+     9:00:00: TCV link_2747 changed by timer control
+     9:00:00: TCV link_2748 changed by timer control
+     9:00:00: Balanced after 2 trials
+   
+     9:15:00: Balanced after 2 trials
+   
+     9:30:00: Balanced after 2 trials
+   
+     9:45:00: Balanced after 2 trials
+   
+    10:00:00: TCV link_2747 changed by timer control
+    10:00:00: TCV link_2748 changed by timer control
+    10:00:00: Balanced after 2 trials
+   
+    10:15:00: Balanced after 2 trials
+   
+    10:30:00: Balanced after 2 trials
+   
+    10:45:00: Balanced after 2 trials
+   
+    11:00:00: TCV link_2747 changed by timer control
+    11:00:00: TCV link_2748 changed by timer control
+    11:00:00: Balanced after 2 trials
+   
+    11:15:00: Balanced after 2 trials
+   
+    11:30:00: Balanced after 2 trials
+   
+    11:45:00: Balanced after 1 trials
+   
+    12:00:00: TCV link_2747 changed by timer control
+    12:00:00: TCV link_2748 changed by timer control
+    12:00:00: Balanced after 2 trials
+   
+    12:15:00: Balanced after 2 trials
+   
+    12:30:00: Balanced after 2 trials
+   
+    12:45:00: Balanced after 1 trials
+   
+    13:00:00: TCV link_2747 changed by timer control
+    13:00:00: TCV link_2748 changed by timer control
+    13:00:00: Balanced after 2 trials
+   
+    13:15:00: Balanced after 2 trials
+   
+    13:30:00: Balanced after 2 trials
+   
+    13:45:00: Balanced after 2 trials
+   
+    14:00:00: TCV link_2747 changed by timer control
+    14:00:00: TCV link_2748 changed by timer control
+    14:00:00: Balanced after 2 trials
+   
+    14:15:00: Balanced after 2 trials
+   
+    14:30:00: Balanced after 2 trials
+   
+    14:45:00: Balanced after 2 trials
+   
+    15:00:00: TCV link_2747 changed by timer control
+    15:00:00: TCV link_2748 changed by timer control
+    15:00:00: Balanced after 2 trials
+   
+    15:15:00: Balanced after 2 trials
+   
+    15:30:00: Balanced after 2 trials
+   
+    15:45:00: Balanced after 2 trials
+   
+    16:00:00: TCV link_2747 changed by timer control
+    16:00:00: TCV link_2748 changed by timer control
+    16:00:00: Balanced after 1 trials
+   
+    16:15:00: Balanced after 2 trials
+   
+    16:30:00: Balanced after 1 trials
+   
+    16:45:00: Balanced after 1 trials
+   
+    17:00:00: TCV link_2747 changed by timer control
+    17:00:00: TCV link_2748 changed by timer control
+    17:00:00: Balanced after 2 trials
+   
+    17:15:00: Balanced after 2 trials
+   
+    17:30:00: Balanced after 2 trials
+   
+    17:45:00: Balanced after 2 trials
+   
+    18:00:00: TCV link_2747 changed by timer control
+    18:00:00: TCV link_2748 changed by timer control
+    18:00:00: Balanced after 2 trials
+   
+    18:15:00: Balanced after 2 trials
+   
+    18:30:00: Balanced after 2 trials
+   
+    18:45:00: Balanced after 1 trials
+   
+    19:00:00: TCV link_2747 changed by timer control
+    19:00:00: TCV link_2748 changed by timer control
+    19:00:00: Balanced after 2 trials
+   
+    19:15:00: Balanced after 2 trials
+   
+    19:30:00: Balanced after 2 trials
+   
+    19:45:00: Balanced after 2 trials
+   
+    20:00:00: TCV link_2747 changed by timer control
+    20:00:00: TCV link_2748 changed by timer control
+    20:00:00: Balanced after 2 trials
+   
+    20:15:00: Balanced after 2 trials
+   
+    20:30:00: Balanced after 2 trials
+   
+    20:45:00: Balanced after 2 trials
+   
+    21:00:00: TCV link_2747 changed by timer control
+    21:00:00: TCV link_2748 changed by timer control
+    21:00:00: Balanced after 2 trials
+   
+    21:15:00: Balanced after 2 trials
+   
+    21:30:00: Balanced after 2 trials
+   
+    21:45:00: Balanced after 2 trials
+   
+    22:00:00: TCV link_2747 changed by timer control
+    22:00:00: TCV link_2748 changed by timer control
+    22:00:00: Balanced after 3 trials
+   
+    22:15:00: Balanced after 2 trials
+   
+    22:30:00: Balanced after 2 trials
+   
+    22:45:00: Balanced after 2 trials
+   
+    23:00:00: TCV link_2747 changed by timer control
+    23:00:00: TCV link_2748 changed by timer control
+    23:00:00: Balanced after 3 trials
+   
+    23:15:00: Balanced after 2 trials
+   
+    23:30:00: Balanced after 2 trials
+   
+    23:45:00: Balanced after 2 trials
+   
+    24:00:00: TCV link_2747 changed by timer control
+    24:00:00: TCV link_2748 changed by timer control
+    24:00:00: Balanced after 2 trials
+   
+    24:15:00: Balanced after 2 trials
+   
+    24:30:00: Balanced after 2 trials
+   
+    24:45:00: Balanced after 2 trials
+   
+    25:00:00: Balanced after 2 trials
+   
+    25:15:00: Balanced after 2 trials
+   
+    25:30:00: Balanced after 2 trials
+   
+    25:45:00: Balanced after 2 trials
+   
+    26:00:00: Balanced after 2 trials
+   
+    26:15:00: Balanced after 2 trials
+   
+    26:30:00: Balanced after 2 trials
+   
+    26:45:00: Balanced after 2 trials
+   
+    27:00:00: Balanced after 2 trials
+   
+    27:15:00: Balanced after 2 trials
+   
+    27:30:00: Balanced after 2 trials
+   
+    27:45:00: Balanced after 2 trials
+   
+    28:00:00: Balanced after 2 trials
+   
+    28:15:00: Balanced after 2 trials
+   
+    28:30:00: Balanced after 2 trials
+   
+    28:45:00: Balanced after 2 trials
+   
+    29:00:00: Balanced after 2 trials
+   
+    29:15:00: Balanced after 2 trials
+   
+    29:30:00: Balanced after 2 trials
+   
+    29:45:00: Balanced after 2 trials
+   
+    30:00:00: Balanced after 2 trials
+   
+    30:15:00: Balanced after 2 trials
+   
+    30:30:00: Balanced after 2 trials
+   
+    30:45:00: Balanced after 2 trials
+   
+    31:00:00: Balanced after 2 trials
+   
+    31:15:00: Balanced after 2 trials
+   
+    31:30:00: Balanced after 2 trials
+   
+    31:45:00: Balanced after 2 trials
+   
+    32:00:00: Balanced after 2 trials
+   
+    32:15:00: Balanced after 2 trials
+   
+    32:30:00: Balanced after 2 trials
+   
+    32:45:00: Balanced after 2 trials
+   
+    33:00:00: Balanced after 2 trials
+   
+    33:15:00: Balanced after 2 trials
+   
+    33:30:00: Balanced after 2 trials
+   
+    33:45:00: Balanced after 2 trials
+   
+    34:00:00: Balanced after 2 trials
+   
+    34:15:00: Balanced after 2 trials
+   
+    34:30:00: Balanced after 1 trials
+   
+    34:45:00: Balanced after 2 trials
+   
+    35:00:00: Balanced after 2 trials
+   
+    35:15:00: Balanced after 2 trials
+   
+    35:30:00: Balanced after 2 trials
+   
+    35:45:00: Balanced after 1 trials
+   
+    36:00:00: Balanced after 2 trials
+   
+    36:15:00: Balanced after 2 trials
+   
+    36:30:00: Balanced after 2 trials
+   
+    36:45:00: Balanced after 1 trials
+   
+    37:00:00: Balanced after 2 trials
+   
+    37:15:00: Balanced after 2 trials
+   
+    37:30:00: Balanced after 2 trials
+   
+    37:45:00: Balanced after 2 trials
+   
+    38:00:00: Balanced after 2 trials
+   
+    38:15:00: Balanced after 2 trials
+   
+    38:30:00: Balanced after 2 trials
+   
+    38:45:00: Balanced after 2 trials
+   
+    39:00:00: Balanced after 2 trials
+   
+    39:15:00: Balanced after 2 trials
+   
+    39:30:00: Balanced after 2 trials
+   
+    39:45:00: Balanced after 2 trials
+   
+    40:00:00: Balanced after 1 trials
+   
+    40:15:00: Balanced after 2 trials
+   
+    40:30:00: Balanced after 1 trials
+   
+    40:45:00: Balanced after 1 trials
+   
+    41:00:00: Balanced after 2 trials
+   
+    41:15:00: Balanced after 2 trials
+   
+    41:30:00: Balanced after 2 trials
+   
+    41:45:00: Balanced after 2 trials
+   
+    42:00:00: Balanced after 2 trials
+   
+    42:15:00: Balanced after 2 trials
+   
+    42:30:00: Balanced after 2 trials
+   
+    42:45:00: Balanced after 1 trials
+   
+    43:00:00: Balanced after 2 trials
+   
+    43:15:00: Balanced after 2 trials
+   
+    43:30:00: Balanced after 2 trials
+   
+    43:45:00: Balanced after 2 trials
+   
+    44:00:00: Balanced after 2 trials
+   
+    44:15:00: Balanced after 2 trials
+   
+    44:30:00: Balanced after 2 trials
+   
+    44:45:00: Balanced after 2 trials
+   
+    45:00:00: Balanced after 2 trials
+   
+    45:15:00: Balanced after 2 trials
+   
+    45:30:00: Balanced after 2 trials
+   
+    45:45:00: Balanced after 2 trials
+   
+    46:00:00: Balanced after 2 trials
+   
+    46:15:00: Balanced after 2 trials
+   
+    46:30:00: Balanced after 2 trials
+   
+    46:45:00: Balanced after 2 trials
+   
+    47:00:00: Balanced after 2 trials
+   
+    47:15:00: Balanced after 2 trials
+   
+    47:30:00: Balanced after 2 trials
+   
+    47:45:00: Balanced after 2 trials
+   
+    48:00:00: Balanced after 2 trials
+   
+    48:15:00: Balanced after 2 trials
+   
+    48:30:00: Balanced after 2 trials
+   
+    48:45:00: Balanced after 2 trials
+   
+    49:00:00: Balanced after 2 trials
+   
+    49:15:00: Balanced after 2 trials
+   
+    49:30:00: Balanced after 2 trials
+   
+    49:45:00: Balanced after 2 trials
+   
+    50:00:00: Balanced after 2 trials
+   
+    50:15:00: Balanced after 2 trials
+   
+    50:30:00: Balanced after 2 trials
+   
+    50:45:00: Balanced after 2 trials
+   
+    51:00:00: Balanced after 2 trials
+   
+    51:15:00: Balanced after 2 trials
+   
+    51:30:00: Balanced after 2 trials
+   
+    51:45:00: Balanced after 2 trials
+   
+    52:00:00: Balanced after 2 trials
+   
+    52:15:00: Balanced after 2 trials
+   
+    52:30:00: Balanced after 2 trials
+   
+    52:45:00: Balanced after 2 trials
+   
+    53:00:00: Balanced after 2 trials
+   
+    53:15:00: Balanced after 2 trials
+   
+    53:30:00: Balanced after 2 trials
+   
+    53:45:00: Balanced after 2 trials
+   
+    54:00:00: Balanced after 2 trials
+   
+    54:15:00: Balanced after 2 trials
+   
+    54:30:00: Balanced after 2 trials
+   
+    54:45:00: Balanced after 2 trials
+   
+    55:00:00: Balanced after 2 trials
+   
+    55:15:00: Balanced after 2 trials
+   
+    55:30:00: Balanced after 2 trials
+   
+    55:45:00: Balanced after 2 trials
+   
+    56:00:00: Balanced after 2 trials
+   
+    56:15:00: Balanced after 2 trials
+   
+    56:30:00: Balanced after 2 trials
+   
+    56:45:00: Balanced after 2 trials
+   
+    57:00:00: Balanced after 2 trials
+   
+    57:15:00: Balanced after 2 trials
+   
+    57:30:00: Balanced after 2 trials
+   
+    57:45:00: Balanced after 2 trials
+   
+    58:00:00: Balanced after 2 trials
+   
+    58:15:00: Balanced after 2 trials
+   
+    58:30:00: Balanced after 1 trials
+   
+    58:45:00: Balanced after 2 trials
+   
+    59:00:00: Balanced after 2 trials
+   
+    59:15:00: Balanced after 2 trials
+   
+    59:30:00: Balanced after 2 trials
+   
+    59:45:00: Balanced after 1 trials
+   
+    60:00:00: Balanced after 2 trials
+   
+    60:15:00: Balanced after 2 trials
+   
+    60:30:00: Balanced after 2 trials
+   
+    60:45:00: Balanced after 1 trials
+   
+    61:00:00: Balanced after 2 trials
+   
+    61:15:00: Balanced after 2 trials
+   
+    61:30:00: Balanced after 2 trials
+   
+    61:45:00: Balanced after 2 trials
+   
+    62:00:00: Balanced after 2 trials
+   
+    62:15:00: Balanced after 2 trials
+   
+    62:30:00: Balanced after 2 trials
+   
+    62:45:00: Balanced after 2 trials
+   
+    63:00:00: Balanced after 2 trials
+   
+    63:15:00: Balanced after 2 trials
+   
+    63:30:00: Balanced after 2 trials
+   
+    63:45:00: Balanced after 2 trials
+   
+    64:00:00: Balanced after 1 trials
+   
+    64:15:00: Balanced after 2 trials
+   
+    64:30:00: Balanced after 1 trials
+   
+    64:45:00: Balanced after 1 trials
+   
+    65:00:00: Balanced after 2 trials
+   
+    65:15:00: Balanced after 2 trials
+   
+    65:30:00: Balanced after 2 trials
+   
+    65:45:00: Balanced after 2 trials
+   
+    66:00:00: Balanced after 2 trials
+   
+    66:15:00: Balanced after 2 trials
+   
+    66:30:00: Balanced after 2 trials
+   
+    66:45:00: Balanced after 1 trials
+   
+    67:00:00: Balanced after 2 trials
+   
+    67:15:00: Balanced after 2 trials
+   
+    67:30:00: Balanced after 2 trials
+   
+    67:45:00: Balanced after 2 trials
+   
+    68:00:00: Balanced after 2 trials
+   
+    68:15:00: Balanced after 2 trials
+   
+    68:30:00: Balanced after 2 trials
+   
+    68:45:00: Balanced after 2 trials
+   
+    69:00:00: Balanced after 2 trials
+   
+    69:15:00: Balanced after 2 trials
+   
+    69:30:00: Balanced after 2 trials
+   
+    69:45:00: Balanced after 2 trials
+   
+    70:00:00: Balanced after 2 trials
+   
+    70:15:00: Balanced after 2 trials
+   
+    70:30:00: Balanced after 2 trials
+   
+    70:45:00: Balanced after 2 trials
+   
+    71:00:00: Balanced after 2 trials
+   
+    71:15:00: Balanced after 2 trials
+   
+    71:30:00: Balanced after 2 trials
+   
+    71:45:00: Balanced after 2 trials
+   
+    72:00:00: Balanced after 2 trials
+   
+    72:15:00: Balanced after 2 trials
+   
+    72:30:00: Balanced after 2 trials
+   
+    72:45:00: Balanced after 2 trials
+   
+    73:00:00: Balanced after 2 trials
+   
+    73:15:00: Balanced after 2 trials
+   
+    73:30:00: Balanced after 2 trials
+   
+    73:45:00: Balanced after 2 trials
+   
+    74:00:00: Balanced after 2 trials
+   
+    74:15:00: Balanced after 2 trials
+   
+    74:30:00: Balanced after 2 trials
+   
+    74:45:00: Balanced after 2 trials
+   
+    75:00:00: Balanced after 2 trials
+   
+    75:15:00: Balanced after 2 trials
+   
+    75:30:00: Balanced after 2 trials
+   
+    75:45:00: Balanced after 2 trials
+   
+    76:00:00: Balanced after 2 trials
+   
+    76:15:00: Balanced after 2 trials
+   
+    76:30:00: Balanced after 2 trials
+   
+    76:45:00: Balanced after 2 trials
+   
+    77:00:00: Balanced after 2 trials
+   
+    77:15:00: Balanced after 2 trials
+   
+    77:30:00: Balanced after 2 trials
+   
+    77:45:00: Balanced after 2 trials
+   
+    78:00:00: Balanced after 2 trials
+   
+    78:15:00: Balanced after 2 trials
+   
+    78:30:00: Balanced after 2 trials
+   
+    78:45:00: Balanced after 2 trials
+   
+    79:00:00: Balanced after 2 trials
+   
+    79:15:00: Balanced after 2 trials
+   
+    79:30:00: Balanced after 2 trials
+   
+    79:45:00: Balanced after 2 trials
+   
+    80:00:00: Balanced after 2 trials
+   
+    80:15:00: Balanced after 2 trials
+   
+    80:30:00: Balanced after 2 trials
+   
+    80:45:00: Balanced after 2 trials
+   
+    81:00:00: Balanced after 2 trials
+   
+    81:15:00: Balanced after 2 trials
+   
+    81:30:00: Balanced after 2 trials
+   
+    81:45:00: Balanced after 2 trials
+   
+    82:00:00: Balanced after 2 trials
+   
+    82:15:00: Balanced after 2 trials
+   
+    82:30:00: Balanced after 1 trials
+   
+    82:45:00: Balanced after 2 trials
+   
+    83:00:00: Balanced after 2 trials
+   
+    83:15:00: Balanced after 2 trials
+   
+    83:30:00: Balanced after 2 trials
+   
+    83:45:00: Balanced after 1 trials
+   
+    84:00:00: Balanced after 2 trials
+   
+    84:15:00: Balanced after 2 trials
+   
+    84:30:00: Balanced after 2 trials
+   
+    84:45:00: Balanced after 1 trials
+   
+    85:00:00: Balanced after 2 trials
+   
+    85:15:00: Balanced after 2 trials
+   
+    85:30:00: Balanced after 2 trials
+   
+    85:45:00: Balanced after 2 trials
+   
+    86:00:00: Balanced after 2 trials
+   
+    86:15:00: Balanced after 2 trials
+   
+    86:30:00: Balanced after 2 trials
+   
+    86:45:00: Balanced after 2 trials
+   
+    87:00:00: Balanced after 2 trials
+   
+    87:15:00: Balanced after 2 trials
+   
+    87:30:00: Balanced after 2 trials
+   
+    87:45:00: Balanced after 2 trials
+   
+    88:00:00: Balanced after 1 trials
+   
+    88:15:00: Balanced after 2 trials
+   
+    88:30:00: Balanced after 1 trials
+   
+    88:45:00: Balanced after 1 trials
+   
+    89:00:00: Balanced after 2 trials
+   
+    89:15:00: Balanced after 2 trials
+   
+    89:30:00: Balanced after 2 trials
+   
+    89:45:00: Balanced after 2 trials
+   
+    90:00:00: Balanced after 2 trials
+   
+    90:15:00: Balanced after 2 trials
+   
+    90:30:00: Balanced after 2 trials
+   
+    90:45:00: Balanced after 1 trials
+   
+    91:00:00: Balanced after 2 trials
+   
+    91:15:00: Balanced after 2 trials
+   
+    91:30:00: Balanced after 2 trials
+   
+    91:45:00: Balanced after 2 trials
+   
+    92:00:00: Balanced after 2 trials
+   
+    92:15:00: Balanced after 2 trials
+   
+    92:30:00: Balanced after 2 trials
+   
+    92:45:00: Balanced after 2 trials
+   
+    93:00:00: Balanced after 2 trials
+   
+    93:15:00: Balanced after 2 trials
+   
+    93:30:00: Balanced after 2 trials
+   
+    93:45:00: Balanced after 2 trials
+   
+    94:00:00: Balanced after 2 trials
+   
+    94:15:00: Balanced after 2 trials
+   
+    94:30:00: Balanced after 2 trials
+   
+    94:45:00: Balanced after 2 trials
+   
+    95:00:00: Balanced after 2 trials
+   
+    95:15:00: Balanced after 2 trials
+   
+    95:30:00: Balanced after 2 trials
+   
+    95:45:00: Balanced after 2 trials
+   
+    96:00:00: Balanced after 2 trials
+   
+    96:15:00: Balanced after 2 trials
+   
+    96:30:00: Balanced after 2 trials
+   
+    96:45:00: Balanced after 2 trials
+   
+    97:00:00: Balanced after 2 trials
+   
+    97:15:00: Balanced after 2 trials
+   
+    97:30:00: Balanced after 2 trials
+   
+    97:45:00: Balanced after 2 trials
+   
+    98:00:00: Balanced after 2 trials
+   
+    98:15:00: Balanced after 2 trials
+   
+    98:30:00: Balanced after 2 trials
+   
+    98:45:00: Balanced after 2 trials
+   
+    99:00:00: Balanced after 2 trials
+   
+    99:15:00: Balanced after 2 trials
+   
+    99:30:00: Balanced after 2 trials
+   
+    99:45:00: Balanced after 2 trials
+   
+   100:00:00: Balanced after 2 trials
+   
+   100:15:00: Balanced after 2 trials
+   
+   100:30:00: Balanced after 2 trials
+   
+   100:45:00: Balanced after 2 trials
+   
+   101:00:00: Balanced after 2 trials
+   
+   101:15:00: Balanced after 2 trials
+   
+   101:30:00: Balanced after 2 trials
+   
+   101:45:00: Balanced after 2 trials
+   
+   102:00:00: Balanced after 2 trials
+   
+   102:15:00: Balanced after 2 trials
+   
+   102:30:00: Balanced after 2 trials
+   
+   102:45:00: Balanced after 2 trials
+   
+   103:00:00: Balanced after 2 trials
+   
+   103:15:00: Balanced after 2 trials
+   
+   103:30:00: Balanced after 2 trials
+   
+   103:45:00: Balanced after 2 trials
+   
+   104:00:00: Balanced after 2 trials
+   
+   104:15:00: Balanced after 2 trials
+   
+   104:30:00: Balanced after 2 trials
+   
+   104:45:00: Balanced after 2 trials
+   
+   105:00:00: Balanced after 2 trials
+   
+   105:15:00: Balanced after 2 trials
+   
+   105:30:00: Balanced after 2 trials
+   
+   105:45:00: Balanced after 2 trials
+   
+   106:00:00: Balanced after 2 trials
+   
+   106:15:00: Balanced after 2 trials
+   
+   106:30:00: Balanced after 1 trials
+   
+   106:45:00: Balanced after 2 trials
+   
+   107:00:00: Balanced after 2 trials
+   
+   107:15:00: Balanced after 2 trials
+   
+   107:30:00: Balanced after 2 trials
+   
+   107:45:00: Balanced after 1 trials
+   
+   108:00:00: Balanced after 2 trials
+   
+   108:15:00: Balanced after 2 trials
+   
+   108:30:00: Balanced after 2 trials
+   
+   108:45:00: Balanced after 1 trials
+   
+   109:00:00: Balanced after 2 trials
+   
+   109:15:00: Balanced after 2 trials
+   
+   109:30:00: Balanced after 2 trials
+   
+   109:45:00: Balanced after 2 trials
+   
+   110:00:00: Balanced after 2 trials
+   
+   110:15:00: Balanced after 2 trials
+   
+   110:30:00: Balanced after 2 trials
+   
+   110:45:00: Balanced after 2 trials
+   
+   111:00:00: Balanced after 2 trials
+   
+   111:15:00: Balanced after 2 trials
+   
+   111:30:00: Balanced after 2 trials
+   
+   111:45:00: Balanced after 2 trials
+   
+   112:00:00: Balanced after 1 trials
+   
+   112:15:00: Balanced after 2 trials
+   
+   112:30:00: Balanced after 1 trials
+   
+   112:45:00: Balanced after 1 trials
+   
+   113:00:00: Balanced after 2 trials
+   
+   113:15:00: Balanced after 2 trials
+   
+   113:30:00: Balanced after 2 trials
+   
+   113:45:00: Balanced after 2 trials
+   
+   114:00:00: Balanced after 2 trials
+   
+   114:15:00: Balanced after 2 trials
+   
+   114:30:00: Balanced after 2 trials
+   
+   114:45:00: Balanced after 1 trials
+   
+   115:00:00: Balanced after 2 trials
+   
+   115:15:00: Balanced after 2 trials
+   
+   115:30:00: Balanced after 2 trials
+   
+   115:45:00: Balanced after 2 trials
+   
+   116:00:00: Balanced after 2 trials
+   
+   116:15:00: Balanced after 2 trials
+   
+   116:30:00: Balanced after 2 trials
+   
+   116:45:00: Balanced after 2 trials
+   
+   117:00:00: Balanced after 2 trials
+   
+   117:15:00: Balanced after 2 trials
+   
+   117:30:00: Balanced after 2 trials
+   
+   117:45:00: Balanced after 2 trials
+   
+   118:00:00: Balanced after 2 trials
+   
+   118:15:00: Balanced after 2 trials
+   
+   118:30:00: Balanced after 2 trials
+   
+   118:45:00: Balanced after 2 trials
+   
+   119:00:00: Balanced after 2 trials
+   
+   119:15:00: Balanced after 2 trials
+   
+   119:30:00: Balanced after 2 trials
+   
+   119:45:00: Balanced after 2 trials
+   
+   120:00:00: Balanced after 2 trials
+   
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.65307e+007
+  Mass Reacted:      1.47807e+006
+  Final Mass:        6.28369e+005
+  Mass Ratio:         0.99999
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.41700e+007
+  Mass Reacted:      3.90846e+006
+  Final Mass:        5.58664e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.36656e+007
+  Mass Reacted:      4.42824e+006
+  Final Mass:        5.43379e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.31896e+007
+  Mass Reacted:      4.91878e+006
+  Final Mass:        5.28793e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.27399e+007
+  Mass Reacted:      5.38243e+006
+  Final Mass:        5.14858e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.23144e+007
+  Mass Reacted:      5.82130e+006
+  Final Mass:        5.01534e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.19112e+007
+  Mass Reacted:      6.23725e+006
+  Final Mass:        4.88773e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.15286e+007
+  Mass Reacted:      6.63201e+006
+  Final Mass:        4.76545e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.11653e+007
+  Mass Reacted:      7.00706e+006
+  Final Mass:        4.64812e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.08198e+007
+  Mass Reacted:      7.36381e+006
+  Final Mass:        4.53548e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.04910e+007
+  Mass Reacted:      7.70349e+006
+  Final Mass:        4.42722e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.01776e+007
+  Mass Reacted:      8.02727e+006
+  Final Mass:        4.32313e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.01776e+007
+  Mass Reacted:      8.02727e+006
+  Final Mass:        4.32313e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.19358e+007
+  Mass Reacted:      6.19771e+006
+  Final Mass:        5.03710e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.17806e+007
+  Mass Reacted:      6.35798e+006
+  Final Mass:        4.98631e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.16286e+007
+  Mass Reacted:      6.51497e+006
+  Final Mass:        4.93637e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.14797e+007
+  Mass Reacted:      6.66880e+006
+  Final Mass:        4.88726e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.13338e+007
+  Mass Reacted:      6.81955e+006
+  Final Mass:        4.83895e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.11908e+007
+  Mass Reacted:      6.96731e+006
+  Final Mass:        4.79142e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.10506e+007
+  Mass Reacted:      7.11214e+006
+  Final Mass:        4.74466e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.09132e+007
+  Mass Reacted:      7.25416e+006
+  Final Mass:        4.69865e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.07784e+007
+  Mass Reacted:      7.39343e+006
+  Final Mass:        4.65335e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.06463e+007
+  Mass Reacted:      7.53002e+006
+  Final Mass:        4.60876e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.05167e+007
+  Mass Reacted:      7.66401e+006
+  Final Mass:        4.56486e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.03896e+007
+  Mass Reacted:      7.79547e+006
+  Final Mass:        4.52164e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.02648e+007
+  Mass Reacted:      7.92446e+006
+  Final Mass:        4.47907e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.01424e+007
+  Mass Reacted:      8.05105e+006
+  Final Mass:        4.43715e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      1.00223e+007
+  Mass Reacted:      8.17530e+006
+  Final Mass:        4.39586e+005
+  Mass Ratio:         1.00000
+  ================================
+
+  Water Quality Mass Balance (mg)
+  ================================
+  Initial Mass:      0.00000e+000
+  Mass Inflow:       1.86373e+007
+  Mass Outflow:      9.90441e+006
+  Mass Reacted:      8.29728e+006
+  Final Mass:        4.35519e+005
+  Mass Ratio:         1.00000
+  ================================

@@ -31,7 +31,7 @@ net.setLinkBulkReactionCoeff(net.LinkIndex, -lambda);
 net.setTimeQualityStep(5*60); % maybe don't need this (epanet file is already set to 5 mins)
 net.setNodeInitialQuality(net.NodeIndex,zeros(size(hydraulic_res.Head,2))); % zero initial quality
 base_cext = ones(n0,1);
-pattern_cext = 0.5./(base_cext*ones(1,n0));
+pattern_cext = 0.5./(base_cext*ones(1,96));
 
 %%
 for i=1:n0
