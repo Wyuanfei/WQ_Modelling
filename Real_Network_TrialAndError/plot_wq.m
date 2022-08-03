@@ -15,9 +15,15 @@ time_series_num(end) = [];
 time_series_datetime = dateshift(datetime(time_series_num, 'ConvertFrom', 'datenum', 'Format', 'yyyy-MM-dd HH:mm:ss'), 'start', 'minute', 'nearest');
 
 % plotting code
-sensor_to_plot = [1; 8]; % this can be many sensors
-
+sensor_to_plot = [1:9]; % this can be many sensors
 figure
 plot(time_series_datetime, chlorine(sensor_to_plot, :));
 xlabel("Date & Time")
 ylabel("Chlorine [mg/L]")
+legend()
+
+figure
+plot(time_series_datetime, chlorine([3,9], :));
+xlabel("Date & Time")
+ylabel("Chlorine [mg/L]")
+legend()

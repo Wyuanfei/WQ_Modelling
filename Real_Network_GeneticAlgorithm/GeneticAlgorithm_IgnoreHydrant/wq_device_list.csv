@@ -1,0 +1,10 @@
+﻿bwfl_id,infradb2_id,logger_type,sensor_offset_slope,sensor_offset_const,model_id,area
+BW9,q52000019,metronet_wq,0,0,node_1773,fieldlab
+BW7,q52000020,metronet_wq,0,0,node_2506,fieldlab
+BW1,q52000021,metronet_wq,0,0,node_2746,fieldlab
+BW2,q52000022,metronet_wq,0,0,node_1811,fieldlab
+BW3,q52000023,metronet_wq,0,0,node_2367,fieldlab
+BW4,q52000024,metronet_wq,0,0,node_2747,fieldlab
+BW5,q52000025,metronet_wq,0,0,node_1809,fieldlab
+BW6,q52000026,metronet_wq,0,0,node_2673,fieldlab
+BW12,q52000032,metronet_wq,0,0,node_1802,fieldlab
