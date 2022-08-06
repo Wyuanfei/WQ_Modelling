@@ -1,7 +1,7 @@
-function [mse,Sim] = TrialAndError(mse_function,lambda,Obs,Junc_Idx,np)
+function [mse_train,mse_val,Sim] = TrialAndError(mse_function,theta_kw,Obs,Junc_Idx,np,order)
 
     for j = 1:np
-        calllib('epanet2','ENsetlinkvalue',j,6,-lambda(j));
+        calllib('epanet2','ENsetlinkvalue',j,7,-theta_kw(j));
     end
     calllib('epanet2','ENopenQ');
     calllib('epanet2','ENinitQ',0);
@@ -16,7 +16,9 @@ function [mse,Sim] = TrialAndError(mse_function,lambda,Obs,Junc_Idx,np)
         [errcode, tleft] = calllib('epanet2','ENnextQ',tleft);
     end
     calllib('epanet2','ENcloseQ');
-    mse = mse_function(Sim(:,2*96+1:3*96),Obs);
+    Sim = Sim(:,1:end-1);
+    mse_train = mse_function(Sim(order,2*96+1:3*96),Obs(order,2*96+1:3*96));
+    mse_val = mse_function(Sim(order,3*96+1:end),Obs(order,3*96+1:end));
 
 end
 
